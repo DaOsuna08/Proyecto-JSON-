@@ -1,0 +1,18 @@
+{
+    "Harina de maiz": {
+        "H. pan": {
+            "Precio": 1.87,
+            "Cant": 200
+        },
+        "H. kaly": {
+            "precio": 0.88,
+            "cant": 150
+        }
+    },
+    "Azucar": {
+        "A. la pastora": {
+            "Precio": 1.43,
+            "Cant": 180
+        }
+    }
+}
